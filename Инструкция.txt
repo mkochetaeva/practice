@@ -5,4 +5,7 @@ pip
  в командной строке/терминале: pip install -r requirements.txt
 3. Сохраните основной код приложения в файл ImageApp.py и запустите приложение
  командой: python ImageApp.py
- Так же для запуска можно использовать исполняемый файл ImageApp
+
+запуск через cmd:
+cd путь\к файлу
+python ImageApp.py или py ImageApp.py
