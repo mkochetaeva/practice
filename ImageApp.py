@@ -12,7 +12,7 @@ from PyQt5.QtCore import Qt, QTimer
 class ImageProcessorApp(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Обработчик изображений")
+        self.setWindowTitle("Фоторедактор")
         self.setGeometry(100, 100, 900, 700)
 
         # инициализация переменных
